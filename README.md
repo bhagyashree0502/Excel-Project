@@ -1,2 +1,2 @@
-# Employee Metrics Dashboard Excel
+# Workforce Composition Analysis Dashboard Excel
 The employee metrics project is a comprehensive initiative aimed at analyzing various aspects of employee performance, engagement, satisfaction, and productivity within an organization. The project typically involves collecting, analyzing, and interpreting data from different sources to gain insights into the overall health of the workforce and identify areas for improvement.
